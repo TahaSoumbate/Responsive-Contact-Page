@@ -1,6 +1,8 @@
 # Responsive Contact Page
 
 🔗 <a href="https://tahasoumbate.github.io/Responsive-Contact-Page/" target="_blank" rel="noopener noreferrer"><strong>View the Live Demo Here</strong></a>
+🔗 **[View the Live Demo Here (opens in a new tab)](https://github.io)**
+
 
 
 A modern, fully responsive contact page built from scratch using HTML5 and CSS3. This project focuses on clean UI design, semantic HTML, and advanced CSS layout techniques (Flexbox and Grid).
