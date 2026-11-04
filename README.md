@@ -22,8 +22,3 @@ A modern, fully responsive contact page built from scratch using HTML5 and CSS3.
 - **CSS3** - Styling, Flexbox, CSS Grid, Media Queries.
 - **Inline SVG** - For crisp, scalable icons.
 
-## 📂 How to View the Project
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
