@@ -5,7 +5,8 @@ A modern, fully responsive contact page built from scratch using HTML5 and CSS3.
 ## 📸 Preview
 
 *(Tip: Take a screenshot of your finished project, upload it to your GitHub repository, and link it here!)*
-<!-- Example: ![Project Preview](./screenshot.png) -->
+
+![Project Preview](./public/image/screencapture-127-0-0-1-5500-contact-form-index-html-2026-11-04-21_51_51.png)
 
 ## 🚀 Features
 
